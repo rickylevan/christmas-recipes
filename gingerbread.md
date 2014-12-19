@@ -18,6 +18,18 @@ Makes about 15 small cookies.
 * 1 tsp bicarbonate of soda
 * Icing sugar to dust
 
+
+```python
+print("hello, world")
+```
+
+{% highlight python %}
+def yourfunction():
+     print "Hello World!"
+{% endhighlight %}
+
+
+
 ## Method
 
 1. Sift the flour, ginger, cinnamon and bicarbonate of soda into a large mixing bowl.
